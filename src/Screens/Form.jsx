@@ -65,7 +65,7 @@ const Form1 = () => {
           at any time. See{" "}
           <span>
             <Link
-              to="https://www.worldfinancialgroup.com/legal/text-terms-of-service-us"
+              to="https://www.transamerica.com/terms-of-use"
               target="_blank"
               style={{ color: "#3770BA", textDecoration: "underline" }}
             >
